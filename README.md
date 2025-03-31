@@ -1,5 +1,5 @@
 <h1 align="center">Carl Norwood</h1>
-<h3 align="center">A creative developer living in Edinburgh</h3>
+<h3 align="center">A Creative Developer living in Edinburgh</h3>
 <img align="right" alt="Coding" width="400" src="https://ik.imagekit.io/carl/TEST/9097dcf32481b45384d295a080513156.jpg?updatedAt=1743450411936">
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=carlnorwood12&label=Profile%20views&color=0e75b6&style=flat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm50amVxdWd6aXVrdjNqenN3dmxpNWwxamQwMWJwanl1MHVnYWFzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pyHTKJ4G9WGQKd12cl/giphy.gif)" alt="carlnorwood12" /> </p>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="80%" width="80%" src="https://ik.imagekit.io/carl/TEST/SCR-20250401-qdtc.jpeg?updatedAt=1743528641671" />
+  <img height="80%" width="100%" src="https://ik.imagekit.io/carl/TEST/SCR-20250401-qdtc.jpeg?updatedAt=1743528641671" />
 </div>
 <h1 align="center">Carl Norwood</h1>
 <h3 align="center">A Creative Developer living in Edinburgh</h3>

@@ -2,7 +2,7 @@
   <img height="50%" width="100%" src="https://ik.imagekit.io/carl/TEST/SCR-20250401-qdtc.jpeg?updatedAt=1743528641671" />
 </div>
 <h1 align="center">Carl Norwood</h1>
-<h3 align="center">A Creative Developer living in Edinburgh</h3>
+<h3 align="center">Delivering web solutions AI cannot replicate</h3>
 <img align="right" alt="Coding" width="400" src="https://ik.imagekit.io/carl/TEST/9097dcf32481b45384d295a080513156.jpg?updatedAt=1743450411936">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlnorwood12&label=Profile%20views&color=0e75b6&style=flat" alt="carlnorwood12" /> </p>

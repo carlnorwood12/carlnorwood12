@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlnorwood12&label=Profile%20views&color=0e75b6&style=flat" alt="carlnorwood12" /> </p>
 
-- 🔭 I’m currently working on my **Graded Unit**
+- 🔭 I’m currently working on my **Graded Unit** and redesigning a website for a childrens' book on leukemia.
 - 📫 Reach me at **ec2251934@edinburghcollege.ac.uk**
 
 <h3 align="left">Connect with me:</h3>

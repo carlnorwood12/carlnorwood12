@@ -1,7 +1,7 @@
 
 
 - 🔭 I’m currently working on my **Portfolio** and redesigning a website for a childrens' book on leukemia.
-- 📫 Reach me at **ec2251934@edinburghcollege.ac.uk**
+- 📫 Reach me at **cnorwoodk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

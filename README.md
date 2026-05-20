@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<video src="(https://res.cloudinary.com/dfilgmh3c/video/upload/v1779292938/Screen_Recording_2026-05-20_at_17.55.57_e1ypzr.mov)" controls="controls" autoplay="autoplay" loop="loop" muted="muted" style="max-width: 100%;"></video>
 <a href="https://instagram.com/carlnorwoodk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carlnorwoodk" height="30" width="40" /></a>
 </p>
 <br><br><br>

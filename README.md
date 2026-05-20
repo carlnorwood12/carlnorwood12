@@ -7,6 +7,6 @@
 </p>
 
 <video width="100%" controls>
-  <source src="https://res.cloudinary.com/dfilgmh3c/image/upload/v1779294491/Screen_Recording_2026-05-20_at_17.55.57_1_mlm5am.gif" type="video/mp4">
+  <source src="https://res.cloudinary.com/dfilgmh3c/image/upload/v1779294491/Screen_Recording_2026-05-20_at_17.55.57_1_mlm5am.gif" type="video/gif">
   Your browser does not support the video tag.
 </video>

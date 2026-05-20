@@ -1,5 +1,4 @@
-- 🔭 I'm currently working on my **Portfolio** and redesigning a website for a childrens' book on leukemia.
-- 📫 Reach me at **cnorwoodk@gmail.com**
+Projects
 
 [2D to 3D Logo Converter](https://service-2d-to-3d-logo-converter-1086826046966.europe-west2.run.app/)
 
